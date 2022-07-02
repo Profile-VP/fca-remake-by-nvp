@@ -1,6 +1,6 @@
 {
   "name": "fca-remake-by-nvp",
-  "version": "10.5.0",
+  "version": "10.5.1",
   "description": "A Facebook chat API that doesn't rely on XMPP",
   "scripts": {
     "test": "mocha",
